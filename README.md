@@ -523,13 +523,6 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📊 Complete Effects Library
-
-Looking for the full list of all effects? Check out our detailed effects library:
-
-- **[EFFECTS_LIBRARY.md](EFFECTS_LIBRARY.md)** - Complete reference with all 100+ effects (50+ video + 50+ photo)
-
----
 
 **⭐ Found this useful? Star this repository!**
 

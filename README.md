@@ -507,15 +507,6 @@ We love seeing what you create! Share your Textideo creations:
 - **Pinterest**: [@textideo](https://www.pinterest.com/textideo)
 - **Email**: [support@textideo.com](mailto:support@textideo.com)
 
-### Contributing
-
-Contributions welcome! Whether it's:
-- 📝 New use cases and tutorials
-- 🎨 Effect showcases and examples
-- 🐛 Bug reports
-- 💡 Feature suggestions
-
-Read our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 ### License
 

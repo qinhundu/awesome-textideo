@@ -221,7 +221,7 @@ Powered by deep learning models and high-performance AI computation, every gener
 | **Box Braids** | Add box braids hairstyle | [Try Now](https://textideo.com/video-effects/box-braids) |
 | **AI Curly Hair** | Get curly hair transformation | [Try Now](https://textideo.com/video-effects/ai-curly-hair) |
 | **AI Hair Growth** | Show hair growing effect | [Try Now](https://textideo.com/video-effects/ai-hair-growth) |
-| **Body Inflation AI** | Body膨胀效果 | [Try Now](https://textideo.com/video-effects/body-inflation) |
+| **Body Inflation AI** | Body swelling effect | [Try Now](https://textideo.com/video-effects/body-inflation) |
 | **Happy Smile** | Add radiant smile to face | [Try Now](https://textideo.com/video-effects/happy-smile) |
 | **Scared Face** | Transform to scared expression | [Try Now](https://textideo.com/video-effects/scared-face) |
 | **White Jacket** | Change outfit to white jacket | [Try Now](https://textideo.com/video-effects/white-jacket) |
@@ -253,7 +253,7 @@ Powered by deep learning models and high-performance AI computation, every gener
 
 | Effect | Description | Try It |
 |--------|-------------|--------|
-| **Point Cloud** | 3D点云粒子效果 | [Try Now](https://textideo.com/video-effects/point-cloud) |
+| **Point Cloud** | 3D point cloud particle effect | [Try Now](https://textideo.com/video-effects/point-cloud) |
 | **Flame On** | Add fire and flames | [Try Now](https://textideo.com/video-effects/flame-on) |
 | **Winter Snow** | Add falling snow effect | [Try Now](https://textideo.com/video-effects/winter-snow) |
 | **Sky Fall** | Sky falling dramatic effect | [Try Now](https://textideo.com/video-effects/sky-fall) |

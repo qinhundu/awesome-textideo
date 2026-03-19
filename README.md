@@ -210,7 +210,7 @@ Powered by deep learning models and high-performance AI computation, every gener
 | **Invisible** | Make objects or people disappear | [Try Now](https://textideo.com/video-effects/invisible) |
 | **Clone** | Create multiple copies of yourself | [Try Now](https://textideo.com/video-effects/clone) |
 | **Bullet Time** | Matrix-style slow motion around subject | [Try Now](https://textideo.com/video-effects/bullet-time) |
-| **Liquid Form** | Transform into liquid形态 | [Try Now](https://textideo.com/video-effects/liquid-form) |
+| **Liquid Form** | Transform into liquid | [Try Now](https://textideo.com/video-effects/liquid-form) |
 | **Money Rain** | Make it rain with money falling | [Try Now](https://textideo.com/video-effects/money-rain) |
 
 #### 🎭 Character & Body Effects
